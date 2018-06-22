@@ -1,4 +1,15 @@
+# Site settings
 theme: jekyll-theme-minimal
 title: Stephanie Kestelman
+email: stephaniekestelman@gmail.com
 Description: This website is currently under construction. Come back in the near future. In the meantime, please look for me on LinkedIn.
 bio: Research Assistant at Princeton University, previously at the University of Chicago Booth School of Business. Swarthmore College '16.
+url: "http:///skestelman.github.io" # the base hostname & protocol for this site
+twitter_username: stephkestelman
+github_username:  skestelman
+permalink: /blog/:year/:month/:title.html
+gems:
+    - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
