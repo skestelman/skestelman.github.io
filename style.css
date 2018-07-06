@@ -12,6 +12,7 @@ body {
 header {
   width:270px;
   float:left;
-  position: relative;
-  left: 50%;
+  position: fixed;
+  margin:0 auto;
+  padding:0 auto;
 }
