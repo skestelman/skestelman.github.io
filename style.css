@@ -11,6 +11,7 @@ body {
 
 header {
   width:270px;
-  float:none;
-  position:fixed;
+  float:left;
+  position: relative;
+  left: 50%;
 }
