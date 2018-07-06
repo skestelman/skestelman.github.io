@@ -10,9 +10,9 @@ body {
 }
 
 header {
-  width:350px;
+  width:270px;
   float:left;
   position: fixed;
-  margin:0;
-  padding:0;
+  margin:0 auto;
+  padding:0 auto;
 }
