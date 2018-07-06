@@ -5,12 +5,12 @@ body {
 }
 
 .wrapper {
-  width:1000px;
+  width:840;
   margin:0 auto;
 }
 
 header {
-  width:500px;
+  width:270px;
   float:left;
   position:fixed;
 }
