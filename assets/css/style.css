@@ -24,10 +24,7 @@ a:hover, a:focus {
 }
 
 header {
-  width:270px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
   margin:0 auto;
   padding:0 auto;
 }
+
