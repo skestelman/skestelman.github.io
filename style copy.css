@@ -1,0 +1,36 @@
+
+
+body {
+  padding:50px;
+  font:14px;
+  color:#990000;
+}
+
+.wrapper {
+  width:840;
+  margin:0 auto;
+}
+
+header {
+  width:270px;
+  float:left;
+  position: fixed;
+  margin:0 auto;
+  padding:0 auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color:#222;
+  margin:0 0 20px;
+}
+
+
+a {
+  color:#990000;
+  text-decoration:none;
+}
+
+a:hover, a:focus {
+  color:#720000;
+  font-weight: bold;
+}

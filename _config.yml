@@ -1,8 +1,8 @@
 # Site settings
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 title: Stephanie Kestelman
 email: stephaniekestelman@gmail.com
-Description: .
+Description: Stephanie Kestelman's website.
 bio: Incoming Harvard Economics PhD Student, previously a Research Assistant at Princeton University the University of Chicago Booth School of Business. Swarthmore College '16.
 url: "http:///skestelman.github.io" # the base hostname & protocol for this site
 twitter_username: stephkestelman
