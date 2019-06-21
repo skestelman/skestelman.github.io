@@ -9,12 +9,12 @@ body {
 }
 
 a {
-  color:#720000;
+  color:#990000;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#720000;
+  color:#990000;
   font-weight: bold;
 }
 
