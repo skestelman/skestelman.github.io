@@ -4,11 +4,22 @@
   <body>   
   <script src="scale_fix.js"></script>    
 	<div class="wrapper">         
-  
-  <head><link rel="import" href="profile.html"></head>
-  <head><link rel="import" href="side.html"></head>
 
-  
+    <script src="jquery.js"></script> 
+    <script> 
+    $(function(){
+      $("#includedContent").load("profile.html"); 
+    });
+    </script> 
+
+
+   <script src="jquery.js"></script> 
+    <script> 
+    $(function(){
+      $("#includedContent").load("side.html"); 
+    });
+    </script> 
+
       <section>       
 	<h3><p> About Me </h3></p>
 	  <p>I am currently a second year doctoral student at Harvard's Department of Economics. My research interests 
