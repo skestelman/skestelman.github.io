@@ -2,7 +2,7 @@ document.write('\
 \
 	<header>\
   <h2><p class="view"><a href="https://skestelman.github.io/">Stephanie Kestelman</a></p></h2>\
-  <p class="view"><img src="https://skestelman.github.io/image/skestelm_circle.png" width=230 height=230></p>\
+  <p class="view"><img src="image/skestelm_circle.png" width=230 height=230 onerror="this.onerror=null;this.src='default-image.jpg';"></p>\
         <h4><p class="view"><a href="https://skestelman.github.io/">About Me</a></p></h4>\
         <h4><p class="view"><a href="https://skestelman.github.io/research.html">Research</a></p></h4>\
   <h4><p class="view"><a href="https://skestelman.github.io/cv/SKestelman_CV_nov2020.pdf">CV</a></p></h4>\
