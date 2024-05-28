@@ -7,8 +7,6 @@ document.write('\
         <h4><p class="view"><a href="https://skestelman.github.io/research.html">Research</a></p></h4>\
   <h4><p class="view"><a href="cv/SKestelman_CV_2024may.pdf">CV</a></p></h4>\
         <h4><p class="view"><a href="https://skestelman.github.io/teaching.html">Teaching</a></p></h4>\
-  <h4><p class="view"><a href="https://skestelman.github.io/data_programs.html">Coding resources</a></p></h4>\
-  <h4><p class="view"><a href="https://skestelman.github.io/diversityecon.html">Diversity in Economics</a></p></h4>\
   <p class="view"><a href="https://twitter.com/stephkestelman"> Twitter </a> </p>   \
   </header>\
   \
