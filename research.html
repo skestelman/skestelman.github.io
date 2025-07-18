@@ -31,6 +31,28 @@
 	<div class="wrapper">
           <script src="side.js"></script>
 
+		<style>
+.hover-reveal {
+  position: relative;
+  cursor: pointer;
+  color: blue;
+}
+.abstract-on-hover {
+  display: none;
+  position: absolute;
+  background: #f9f9f9;
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 500px;
+  z-index: 100;
+  color: gray;
+  margin-top: 5px;
+}
+.hover-reveal:hover .abstract-on-hover {
+  display: block;
+}
+</style>
+		
       <section>
 	<h1><p> Research </h1></p>
 	<!-- <p><a  href="https://skestelman.github.io/research/SKestelman_statement_2181120.pdf.pdf">Here's a link to my research statement</a> </p> -->
@@ -40,7 +62,8 @@
 
 
 <p> Neutralizing NIMBYs: Effect of Community Voice in Land Use Decisions  <i> Job Market Paper </i>  <br>
-<div align="justify" style="color: Gray; margin-left: 40px; margin-top: -15px"> 
+<span class="hover-reveal">[Hover for Abstract]
+    <div class="abstract-on-hover">	
 Zoning regulations restrict the size and use of new real estate development. Developers wishing to build larger projects must undergo discretionary review, which entails public hearings, and may ultimately end with rejection. Incumbent residents value having a voice in the approval process, arguing that they can shape their neighborhoods and prevent undesirable development. This paper uses data from Los Angeles to study the role of community discretion in land use decisions. First, I document new facts about new development applications and approvals. Second, I evaluate the impact of reducing discretion on the characteristics and impacts of proposed and built projects. I leverage the rollout of the Transit-Oriented Communities (TOC) program, which reduced discretion over the approval of qualifying multifamily projects near public transit stops. I show that housing supply increased near major public transit stops. In particular, more buildings with over 50 units were developed, due to the TOC program’s provision to reduce discretion over buildings of that size. I estimate whether the projects built under the policy would have been approved or rejected under the discretionary review regime. Finally, I describe the general equilibrium effects of upzoning or reducing community discretion in some neighborhoods, but not others. 
 </div>
  </p>
