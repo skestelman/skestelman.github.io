@@ -27,6 +27,31 @@
     <![endif]-->
   </head>
 
+<style>
+  .abstract {
+    display: none;
+    color: gray;
+    margin-left: 40px;
+    margin-top: -10px;
+    text-align: justify;
+  }
+  .abstract-button {
+    margin: 5px 0;
+  }
+</style>
+
+<script>
+  function toggleAbstract(id) {
+    const abs = document.getElementById(`abstract-${id}`);
+    const showBtn = document.getElementById(`show-${id}`);
+    const hideBtn = document.getElementById(`hide-${id}`);
+    const visible = abs.style.display === "block";
+    abs.style.display = visible ? "none" : "block";
+    showBtn.style.display = visible ? "inline" : "none";
+    hideBtn.style.display = visible ? "none" : "inline";
+  }
+</script>
+
   <body>
 	<div class="wrapper">
 
@@ -42,18 +67,6 @@
 	  <p align="justify"> You can reach me at skestelman at g.harvard.edu. </p>
 <!-- , or find me on <a href="https://twitter.com/stephkestelman">Twitter</a> -->
 
-<script>
-  function toggleAbstract(id) {
-    const abstract = document.getElementById(`abstract-${id}`);
-    const showBtn = document.getElementById(`show-${id}`);
-    const hideBtn = document.getElementById(`hide-${id}`);
-
-    const isVisible = abstract.style.display === "block";
-    abstract.style.display = isVisible ? "none" : "block";
-    showBtn.style.display = isVisible ? "inline" : "none";
-    hideBtn.style.display = isVisible ? "none" : "inline";
-  }
-</script>
 
       <section>
 	<h1><p> Research </h1></p>
