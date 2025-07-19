@@ -39,14 +39,3 @@ h1 {
 .muted-link:hover{color:#990000 !important;text-decoration:none}
 .ne{color:#990000;font-weight:bold}.highlight
 .nl{color:#990000;font-weight:bold}.highlight
-
-.abstract {
-    display: none;
-    color: gray;
-    margin-left: 40px;
-    margin-top: -15px;
-    text-align: justify;
-  }
-  .abstract-button {
-    margin: 5px 0;
-  }
