@@ -4,7 +4,7 @@ title: Blog
 ---
 
 <ul>
-{% for post in site.posts %}
+{% for post in site._posts %}
   <li>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     <span class="post-date">
