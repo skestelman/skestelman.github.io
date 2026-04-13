@@ -9,10 +9,10 @@ title: Research
 
 <p> <a href="https://www.dropbox.com/scl/fi/uilcea1axtxyn1ofcml3r/toc_draft_05092025_v3.pdf?rlkey=etnwip4dm95ubx8x13ei52i7f&dl=0">  Effects of Transit-Oriented Incentive Programs:
 Evidence from Los Angeles </a>  <br>
-<button class="abstract-button" id="show-1" onclick="toggleAbstract(1)">Abstract</button>
-<button class="abstract-button" id="hide-1" onclick="toggleAbstract(1)" style="display:none;">Hide Abstract</button>
-<div class="abstract" id="abstract-1">
 
+
+<details>
+<summary><strong>Show / Hide Abstract</strong></summary>
 This paper examines the effects of transit-oriented development incentives on multifamily
 housing development, using the implementation of Los Angeles’s Transit-
 Oriented Communities (TOC) incentive program as a natural experiment. Introduced
@@ -28,33 +28,31 @@ that TOC enabled projects that would have faced lower approval chances or higher
 appeal risk under the previous discretionary regime. These findings highlight how procedural
 streamlining can shift the type and location of urban development, even if
 aggregate supply effects are limited.
-</div>
- </p>
+</details>
+
 
 <p>  Environmental Externalities of Urban Growth: Evidence from the California Wildfires <i> New draft coming soon! </i>   <br>
 <div style="color: Gray; margin-left: 40px; margin-top: -15px"> Media coverage: <a href="https://www.wsj.com/us-news/californias-housing-and-wildfire-crises-are-on-a-collision-course-bbcb9b81?mod=mhp">WSJ</a>  </div>
-<button class="abstract-button" id="show-2" onclick="toggleAbstract(2)">Abstract</button>
-<button class="abstract-button" id="hide-2" onclick="toggleAbstract(2)" style="display:none;">Hide Abstract</button>
-<div class="abstract" id="abstract-2">
+<details>
+<summary><strong>Show / Hide Abstract</strong></summary>
 Human activity is the primary cause of wildfires in California, suggesting that land development may affect the probability of ignition and create environmental externalities. This paper quantifies these externalities using geospatial data and finds that housing development has a non-monotonic effect on the probability of ignition. Converting 2.5 acres of wildland into low-density development at the urban fringe increases the annual probability of wildfire ignition by 0.34-0.67 percentage points, compared to an average yearly probability of 1.74 percent. The probability of ignition decreases at higher rates of land development under weaker drought conditions. Suppression costs also increase with nearby development; each new housing unit near an ignition site generates up to \$23,774 in expected annual suppression costs for small fires. Policy simulations show that limiting greenfield development while relaxing urban supply constraints reduces wildfire-related costs, while restricting supply without offsetting infill development may worsen risk. These results highlight the importance of coordinated land use policy to mitigate wildfire externalities as climate change intensifies fire conditions.
- </div> </p>
+</details>
 
 
 
 <p>  <a href="https://www.dropbox.com/scl/fi/hhc3pipg9x0jwtq5adjlm/RTC.pdf?rlkey=qky6pxy9oqe3ei39c3hm0fhjw&e=2&st=q93wrrax&dl=0">  Equilibrium Effects of Eviction Protections: The Case of Legal Assistance</a> (with
 	<a href="https://sites.google.com/site/collinsonrob/">Rob Collinson</a>, <a href="http://johnerichumphries.com/">John Eric Humphries</a>, <a href="https://faculty.chicagobooth.edu/scott-nelson?_gl=1*18d8fzg*_gcl_au*MTYyOTMyNTA3MS4xNzQxMTg2NDE2">Scott Nelson</a>,
 	<a href="https://sites.google.com/site/winnielillianvandijk/">Winnie van Dijk</a>, and <a href="https://sites.google.com/view/danielwaldinger/">Daniel Waldinger</a>)  <i> R&R, AER </i>   <br>
-<button class="abstract-button" id="show-3" onclick="toggleAbstract(3)">Abstract</button>
-<button class="abstract-button" id="hide-3" onclick="toggleAbstract(3)" style="display:none;">Hide Abstract</button>
-<div class="abstract" id="abstract-3">
-“Right-to-counsel” programs provide free legal assistance to tenants in eviction court. Legal assistance can delay or prevent eviction. However, large-scale legal assistance programs can also generate costs for tenants due to equilibrium rental market responses. In this paper, we study how right to counsel impacts rental markets when implemented at scale, and quantify the policy’s impact on tenant welfare. Leveraging the geographic rollout of New York City’s program, we find listed rent prices rose by $22-$38/month within two years of policy implementation, with larger increases in areas with higher baseline eviction rates. We do not find evidence that landlords adjusted on other margins, such as tenant screening or improvements to habitability. Guided by these results, we develop a framework to evaluate the policy’s welfare implications for tenants, incorporating the trade-off between protection from eviction and higher rent prices. We quantify the parameters of our framework using linked data on eviction court cases, rental housing listings, and tenant earnings trajectories. Despite the direct benefits and insurance value of stronger eviction protections, the estimated price increases are large enough to generate a small net reduction in ex-ante tenant welfare. </div> </p>
-
+<details>
+<summary><strong>Show / Hide Abstract</strong></summary>
+“Right-to-counsel” programs provide free legal assistance to tenants in eviction court. Legal assistance can delay or prevent eviction. However, large-scale legal assistance programs can also generate costs for tenants due to equilibrium rental market responses. In this paper, we study how right to counsel impacts rental markets when implemented at scale, and quantify the policy’s impact on tenant welfare. Leveraging the geographic rollout of New York City’s program, we find listed rent prices rose by $22-$38/month within two years of policy implementation, with larger increases in areas with higher baseline eviction rates. We do not find evidence that landlords adjusted on other margins, such as tenant screening or improvements to habitability. Guided by these results, we develop a framework to evaluate the policy’s welfare implications for tenants, incorporating the trade-off between protection from eviction and higher rent prices. We quantify the parameters of our framework using linked data on eviction court cases, rental housing listings, and tenant earnings trajectories. Despite the direct benefits and insurance value of stronger eviction protections, the estimated price increases are large enough to generate a small net reduction in ex-ante tenant welfare.
+</details>
 
   <hr>
 
 
 	<h3><p> Work in Progress </h3></p>
-<p> <a href="https://www.dropbox.com/scl/fi/4nmp2v7v4xmb3pp1ank1f/07162025_nber_criw_LL.pdf?rlkey=qd2hdss5qnbolylaailu7m75h&dl=0"> Measuring Rental Property Ownership in the United States </a> <br> (with <a href="https://www.rebecca-diamond.com">Rebecca Diamond</a>, <a href="http://johnerichumphries.com/">John Eric Humphries</a>, <a href="https://www.katepennington.org">Kate Pennington</a>, <a href="https://sites.google.com/site/winnielillianvandijk/">Winnie van Dijk</a> and <a href="https://sites.google.com/site/johnlvoorheis/">John Voorheis</a>)
+<p> <a href="https://www.dropbox.com/scl/fi/4nmp2v7v4xmb3pp1ank1f/07162025_nber_criw_LL.pdf?rlkey=qd2hdss5qnbolylaailu7m75h&dl=0"> Towards a Measurement of Rental Property Ownership in the United States </a> <br> (with <a href="https://www.rebecca-diamond.com">Rebecca Diamond</a>, <a href="http://johnerichumphries.com/">John Eric Humphries</a>, <a href="https://www.katepennington.org">Kate Pennington</a>, <a href="https://sites.google.com/site/winnielillianvandijk/">Winnie van Dijk</a> and <a href="https://sites.google.com/site/johnlvoorheis/">John Voorheis</a>)
 <button class="abstract-button" id="show-4" onclick="toggleAbstract(4)">Abstract</button>
 <button class="abstract-button" id="hide-4" onclick="toggleAbstract(4)" style="display:none;">Hide Abstract</button>
 <div class="abstract" id="abstract-4">
@@ -62,16 +60,6 @@ In this project, we use restricted U.S. Census data to construct new measures of
 </div>
  </p>
 
-<p> <!--<a>-->  Time to Approve and Approval Uncertainty in Real Estate Development <!--</a>--> <br> (with <a href="https://www.linkedin.com/in/rachel-pomerantz-66a7aa41">Rachel Pomerantz</a>)
-<button class="abstract-button" id="show-5" onclick="toggleAbstract(5)">Abstract</button>
-<button class="abstract-button" id="hide-5" onclick="toggleAbstract(5)" style="display:none;">Hide Abstract</button>
-<div class="abstract" id="abstract-5">
-	The lack of housing is one of the most pressing problems facing American cities. Careful research of the process through which new housing is built can hopefully point towards solutions. In most jurisdictions in the US, new housing must be approved by local authorities before being built. How does uncertainty in the approval process affect the supply of new housing and housing cycles? There are two important dimensions of uncertainty in the application process: whether the project will be approved and when that decision will come (Glaeser and Gyourko 2018).
-	This paper studies the time to approval in the construction of residential housing using data from the city of Los Angeles. First, we present novel facts about the approval of housing entitlements.
-	Then, we build a model of the housing market that features an uncertain application process to demonstrate the impact on housing cycles.
-	Finally, we use our empirical results and model to study whether eliminating uncertainty in the time to decision or the likelihood of approval is more important in the supply of new housing.
-</div>
- </p>
 
 <!-- <p>  Impact of Subnational Responses to a National Crisis: Evidence from Brazil  <br> (with <a href="https://www.jpchauvin.com">Juan Pablo Chauvin</a>  and <a href="https://scholar.harvard.edu/glaeser/home">Edward Glaeser</a>) </p> -->
 
