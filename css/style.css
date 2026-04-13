@@ -44,7 +44,15 @@ header {
 
 
 h1 {
-  color: #0FBDB4;
+  color: #004D4D;
+}
+
+h2 {
+  color: #0C9790;
+}
+
+h3 {
+  color: #096D68;
 }
 
 
@@ -62,10 +70,10 @@ img {
 
 
 .link-gray-dark:hover{color:#696E6E !important}
-.link-hover-blue:hover{color:#004D4D !important}
-.muted-link:hover{color:#004D4D !important;text-decoration:none}
-.ne{color:#00918B;font-weight:bold}.highlight
-.nl{color:#00918B;font-weight:bold}.highlight
+.link-hover-blue:hover{color:#0C9790 !important}
+.muted-link:hover{color:#096D68 !important;text-decoration:none}
+.ne{color:#096D68;font-weight:bold}.highlight
+.nl{color:#096D68;font-weight:bold}.highlight
 
 @media (max-width: 768px) {
   body {
