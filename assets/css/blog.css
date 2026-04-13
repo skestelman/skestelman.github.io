@@ -1,1 +1,24 @@
 
+.post {
+  max-width: 700px;
+  line-height: 1.6;
+}
+
+.post-meta {
+  color: #666;
+  font-size: 0.9em;
+}
+
+.note-type {
+  font-variant: small-caps;
+}
+
+.post.working-note {
+  border-left: 3px solid #ccc;
+  padding-left: 1em;
+}
+
+.post.mini-essay {
+  border-left: 3px solid #333;
+  padding-left: 1em;
+}
