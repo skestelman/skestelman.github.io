@@ -1,87 +1,10 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
-<!-- Begin Jekyll SEO tag v2.4.0 -->
-<title>Stephanie Kestelman</title>
-<link rel="stylesheet" href="assets/css/style.css">
-<meta name="generator" content="Jekyll v3.7.3" />
-<link rel="icon" type="image/png" href="image/favicon-32x32.png" sizes="32x32" />
-<meta property="og:title" content="Stephanie Kestelman" />
-<meta property="og:description" content="Economist" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://skestelman.github.io/" />
-<meta property="og:url" content="https://skestelman.github.io/" />
-<meta property="og:site_name" content="Stephanie Kestelman" />
-<meta property="og:image" content="https://skestelman.github.io/image/stephaniekestelman_photo_circ.jpg" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary_large_image" />
-<script type="application/ld+json">
-{"name":"Stephanie Kestelman","@type":"WebSite","url":"https://skestelman.github.io/","headline":"Stephanie Kestelman","@context":"http://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-    <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-  </head>
-
-<style>
-  .abstract {
-    display: none;
-    color: gray;
-    margin-left: 40px;
-    margin-top: -10px;
-    text-align: justify;
-  }
-  .abstract-button {
-    margin: 5px 0;
-  }
-</style>
-
-<script>
-function toggleAbstract(id) {
-  const abs = document.getElementById(`abstract-${id}`);
-  const showBtn = document.getElementById(`show-${id}`);
-  const hideBtn = document.getElementById(`hide-${id}`);
-  const visible = abs.style.display === "block";
-  abs.style.display = visible ? "none" : "block";
-  showBtn.style.display = visible ? "inline" : "none";
-  hideBtn.style.display = visible ? "none" : "inline";
-}
-</script>
-
-  <body>
-	<div class="wrapper">
-
-    <script src="side.js"></script>
+---
+layout: page
+title: Research
+---
 
 
-      <section>
-<!-- 	<h3><p> About Me </h3></p> -->
-	  <p align="justify">I am the Housing Research Director at <a href="https://www.arnoldventures.org/work/infrastructure">Arnold Ventures</a>. I am establishing 
-		  a housing research portfolio that can inform the design and implementation of policies to make it easier, 
-		  faster and cheaper to build housing of all different types.
-		
-		  <br>
-		  
-		  <br>
-		  I am a research economist by training. In my research, I combine theory and methods in applied econometrics and industrial organization to study housing policy.
-		  I received my PhD in Economics from Harvard in 2025, and my BA from Swarthmore College in
-		  2016. In my free time, I enjoy playing with my dog <a href="https://skestelman.github.io/dexter.html">Dexter</a>, playing 
-		  <a href="https://store.steampowered.com/app/3801950/Maze_of_the_Lich/">video games developed by my husband,</a>  knitting and sewing. 
-
-	  <!-- <p align="justify"> You can reach me at skestelman at g.harvard.edu. </p> -->
-<!-- , or find me on <a href="https://twitter.com/stephkestelman">Twitter</a> -->
-
-
-      <section>
-	<h1><p> Research </h1></p>
-	<!-- <p><a  href="https://skestelman.github.io/research/SKestelman_statement_2181120.pdf.pdf">Here's a link to my research statement</a> </p> -->
-
-
-	<h3><p> Working papers </h3></p>
+<h3><p> Working papers </h3></p>
 
 
 <p> <a href="https://www.dropbox.com/scl/fi/uilcea1axtxyn1ofcml3r/toc_draft_05092025_v3.pdf?rlkey=etnwip4dm95ubx8x13ei52i7f&dl=0">  Effects of Transit-Oriented Incentive Programs:
@@ -158,6 +81,4 @@ In this project, we use restricted U.S. Census data to construct new measures of
   <p><a href="https://thelittledataset.com/2020/06/17/research-and-gender-during-a-pandemic/">Who's Talking about their COVID-19 Research? Gender and Research During a Pandemic</a> <br> (with
 	  <a href="https://www.albrightalex.com">Alex Albright</a>, <a href="https://kristen-mccormack.com">Kristen McCormack</a>, and <a href="https://www.linkedin.com/in/isabelharbaugh">Isabel Harbaugh Macdonald</a>), June 2020 </p>
 
-   <script src="scale_fix.js"></script>
-  </body>
-</html>
+

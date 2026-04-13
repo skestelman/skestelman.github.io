@@ -1,15 +1,13 @@
-# Site settings
-theme: jekyll-theme-minimal
+# Site identity
 title: Stephanie Kestelman
+description: Stephanie Kestelman's website
 email: stephaniekestelman@gmail.com
-Description: Stephanie Kestelman's website
-bio: Harvard Economics PhD Student
-url: "http:///skestelman.github.io" # the base hostname & protocol for this site
+bio: Housing Economist at Arnold Ventures. PhD from Harvard.
+
+url: "https://skestelman.github.io"
+
 twitter_username: stephkestelman
-github_username:  skestelman
-permalink: /blog/:year/:month/:title.html
-gems:
-    - jekyll-sitemap
+github_username: skestelman
 
 # Build settings
 markdown: kramdown
@@ -19,10 +17,17 @@ kramdown:
   footnote_nr: 1
   math_engine: mathjax
 
+# Blog post URLs
 permalink: /blog/:year/:month/:day/:title/
 
+# Plugins supported by GitHub Pages
+plugins:
+  - jekyll-sitemap
+
+# Defaults
 defaults:
   - scope:
+      path: ""
       type: posts
     values:
       layout: post
