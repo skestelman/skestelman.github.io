@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Research
 ---
 
 
 # Working papers 
 
 
-## <a href="https://www.dropbox.com/scl/fi/uilcea1axtxyn1ofcml3r/toc_draft_05092025_v3.pdf?rlkey=etnwip4dm95ubx8x13ei52i7f&dl=0">  Effects of Transit-Oriented Incentive Programs: Evidence from Los Angeles </a>
+#### <a href="https://www.dropbox.com/scl/fi/uilcea1axtxyn1ofcml3r/toc_draft_05092025_v3.pdf?rlkey=etnwip4dm95ubx8x13ei52i7f&dl=0">  Effects of Transit-Oriented Incentive Programs: Evidence from Los Angeles </a>
 
 <details>
 <summary><strong>Show / Hide Abstract</strong></summary>
@@ -15,7 +14,7 @@ This paper examines the effects of transit-oriented development incentives on mu
 </details>
 
 
-## Environmental Externalities of Urban Growth: Evidence from the California Wildfires <i> New draft coming soon! </i> 
+#### Environmental Externalities of Urban Growth: Evidence from the California Wildfires <i> New draft coming soon! </i> 
 Media coverage: <a href="https://www.wsj.com/us-news/californias-housing-and-wildfire-crises-are-on-a-collision-course-bbcb9b81?mod=mhp">WSJ</a>
 
 <details>
@@ -25,7 +24,7 @@ Human activity is the primary cause of wildfires in California, suggesting that 
 
 
 
-## <a href="https://www.dropbox.com/scl/fi/hhc3pipg9x0jwtq5adjlm/RTC.pdf?rlkey=qky6pxy9oqe3ei39c3hm0fhjw&e=2&st=q93wrrax&dl=0">  Equilibrium Effects of Eviction Protections: The Case of Legal Assistance</a> 
+#### <a href="https://www.dropbox.com/scl/fi/hhc3pipg9x0jwtq5adjlm/RTC.pdf?rlkey=qky6pxy9oqe3ei39c3hm0fhjw&e=2&st=q93wrrax&dl=0">  Equilibrium Effects of Eviction Protections: The Case of Legal Assistance</a> 
 (with <a href="https://sites.google.com/site/collinsonrob/">Rob Collinson</a>, <a href="http://johnerichumphries.com/">John Eric Humphries</a>, <a href="https://faculty.chicagobooth.edu/scott-nelson?_gl=1*18d8fzg*_gcl_au*MTYyOTMyNTA3MS4xNzQxMTg2NDE2">Scott Nelson</a>,
 	<a href="https://sites.google.com/site/winnielillianvandijk/">Winnie van Dijk</a>, and <a href="https://sites.google.com/view/danielwaldinger/">Daniel Waldinger</a>)  <i> R&R, AER </i> 
 	
@@ -38,7 +37,7 @@ Human activity is the primary cause of wildfires in California, suggesting that 
 
 
 # Work in Progress
-## <a href="https://www.dropbox.com/scl/fi/4nmp2v7v4xmb3pp1ank1f/07162025_nber_criw_LL.pdf?rlkey=qd2hdss5qnbolylaailu7m75h&dl=0"> Towards a Measurement of Rental Property Ownership in the United States </a>
+#### <a href="https://www.dropbox.com/scl/fi/4nmp2v7v4xmb3pp1ank1f/07162025_nber_criw_LL.pdf?rlkey=qd2hdss5qnbolylaailu7m75h&dl=0"> Towards a Measurement of Rental Property Ownership in the United States </a>
 (with <a href="https://www.rebecca-diamond.com">Rebecca Diamond</a>, <a href="http://johnerichumphries.com/">John Eric Humphries</a>, <a href="https://www.katepennington.org">Kate Pennington</a>, <a href="https://sites.google.com/site/winnielillianvandijk/">Winnie van Dijk</a> and <a href="https://sites.google.com/site/johnlvoorheis/">John Voorheis</a>)
 
 <details>
