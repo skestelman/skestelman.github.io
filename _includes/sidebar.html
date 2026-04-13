@@ -1,0 +1,17 @@
+<div class="sidebar">
+  <h1 class="site-title">
+    <a {{ '/' | relative_url }}{{ site.title }}</a>
+  </h1>
+
+  <p class="site-bio">
+    {{ site.bio }}
+  </p>
+
+  <ul class="nav">
+    <li><a {{ '/' | relative_url }}>Home</a></li>
+    <li><a {{ '/blog/' | relative_url }}>Blog</a></li>
+    <li><a {{ '/research/' | relative_url }}>Research</a></li>
+    <li><a {{ '/data_programs/' | relative_url }}>Data &amp; Programs</a></li>
+  </ul>
+</div>
+``
