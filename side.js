@@ -6,6 +6,7 @@ document.write('\
 <h4><p class="view"><a href="https://skestelman.github.io/">Home</a></p></h4>\
 <h4><p class="view"><a href="cv/SKestelman_CV_2025dec.pdf">CV</a></p></h4>\
 <h4><p class="view"><a href="https://skestelman.github.io/teaching.html">Teaching</a></p></h4>\
+<h4><p class="view"><a href="https://skestelman.github.io/blog.html">Research musings (blog)</a></p></h4>\
 <h4><p class="view"><a href="https://skestelman.github.io/dexter.html">My dog, Dexter</a></p></h4>\
   </header>\
   \
