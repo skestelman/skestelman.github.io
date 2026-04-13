@@ -72,8 +72,8 @@ img {
 .link-gray-dark:hover{color:#696E6E !important}
 .link-hover-blue:hover{color:#0C9790 !important}
 .muted-link:hover{color:#096D68 !important;text-decoration:none}
-.ne{color:#096D68;font-weight:bold}.highlight
-.nl{color:#096D68;font-weight:bold}.highlight
+.highlight .ne{color:#096D68;font-weight:bold}
+.highlight .nl{color:#096D68;font-weight:bold}
 
 @media (max-width: 768px) {
   body {
