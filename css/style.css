@@ -1,8 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-@import "jekyll-theme-minimal";
+@import "style_other.css";
 
 body {
   padding:50px;
@@ -20,8 +19,22 @@ a:hover, a:focus {
 }
 
 .wrapper {
+  display: flex;
+  align-items: flex-start;
   width:80%;
   margin:0 auto;
+}
+
+.sidebar {
+  width: 220px;
+  flex-shrink: 0;
+  padding-right: 2rem;
+}
+
+.content {
+  flex: 1;
+  min-width: 0;
+  padding: 1rem 2rem;
 }
 
 header {
