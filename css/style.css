@@ -9,12 +9,12 @@ body {
 }
 
 a {
-  color:#990000;
+  color:#00918B;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#990000;
+  color:#00918B;
   font-weight: bold;
 }
 
@@ -44,7 +44,7 @@ header {
 
 
 h1 {
-  color: #990000;
+  color: #00918B;
 }
 
 
@@ -61,11 +61,11 @@ img {
 }
 
 
-.link-gray-dark:hover{color:#990000 !important}
-.link-hover-blue:hover{color:#990000 !important}
-.muted-link:hover{color:#990000 !important;text-decoration:none}
-.ne{color:#990000;font-weight:bold}.highlight
-.nl{color:#990000;font-weight:bold}.highlight
+.link-gray-dark:hover{color:#00918B !important}
+.link-hover-blue:hover{color:#00918B !important}
+.muted-link:hover{color:#00918B !important;text-decoration:none}
+.ne{color:#00918B;font-weight:bold}.highlight
+.nl{color:#00918B;font-weight:bold}.highlight
 
 @media (max-width: 768px) {
   body {
