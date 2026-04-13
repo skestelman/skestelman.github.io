@@ -15,7 +15,8 @@ This paper examines the effects of transit-oriented development incentives on mu
 </details>
 
 
-#### Environmental Externalities of Urban Growth: Evidence from the California Wildfires <i> New draft coming soon! </i> 
+#### Environmental Externalities of Urban Growth: Evidence from the California Wildfires 
+<i> New draft coming soon! </i> 
 Media coverage: <a href="https://www.wsj.com/us-news/californias-housing-and-wildfire-crises-are-on-a-collision-course-bbcb9b81?mod=mhp">WSJ</a>
 
 <details>
