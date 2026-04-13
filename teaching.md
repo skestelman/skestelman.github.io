@@ -3,14 +3,14 @@ layout: page
 title: Teaching
 ---
 
-<p>  Econ 1644: Market Power in the New Economy <br>
-Teaching Assistant for Prof. Myrto Kalouptsidi, Spring 2024 </p>
+**Econ 1644: Market Power in the New Economy**
+Teaching Assistant for Prof. Myrto Kalouptsidi, Spring 2024
 
-<p> Thesis advising and Stata, R and ArcGIS for research  <br>
-Instructor, Fall 2023 </p>
+**Thesis advising and Stata, R and ArcGIS for research**
+Instructor, Fall 2023
 
-<p> Econ 2000: Introduction to Quantitative Economics (graduate) <br>
-Teaching Assistant for Prof. Jesse Shapiro, Fall 2022, Fall 2023 </p>
+**Econ 2000: Introduction to Quantitative Economics (graduate)**
+Teaching Assistant for Prof. Jesse Shapiro, Fall 2022, Fall 2023
 
-<p> Econ 2422: Empirical Research in Labor and Public Economics (graduate)  <br>
-Teaching Assistant for Prof. Winnie van Dijk, Spring 2022, Fall 2022  </p>
+**Econ 2422: Empirical Research in Labor and Public Economics (graduate)**
+Teaching Assistant for Prof. Winnie van Dijk, Spring 2022, Fall 2022
