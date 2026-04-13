@@ -14,3 +14,16 @@ gems:
 # Build settings
 markdown: kramdown
 
+kramdown:
+  input: GFM
+  footnote_nr: 1
+  math_engine: mathjax
+
+permalink: /blog/:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      type: posts
+    values:
+      layout: post
+``
