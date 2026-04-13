@@ -1,17 +1,41 @@
 <div class="sidebar">
-  <h1 class="site-title">
-    <a {{ '/' | relative_url }}{{ site.title }}</a>
-  </h1>
 
-  <p class="site-bio">
-    {{ site.bio }}
-  </p>
+  <h3 class="site-title">
+    <a href="{{ '/' | relative_url }}">Stephanie Kestelman</a>
+  </h3>
 
-  <ul class="nav">
-    <li><a {{ '/' | relative_url }}>Home</a></li>
-    <li><a {{ '/blog/' | relative_url }}>Blog</a></li>
-    <li><a {{ '/research/' | relative_url }}>Research</a></li>
-    <li><a {{ '/data_programs/' | relative_url }}>Data &amp; Programs</a></li>
-  </ul>
+  <img
+    src="{{ '/image/profile.jpg' | relative_url }}"
+    alt="Stephanie Kestelman profile picture"
+    class="profile-pic"
+  />
+
+  <nav class="side-nav">
+    <h5><a href="{{ '/' | relative_url }}">Home</a></h5>
+
+    <h5>
+      <a href="{{ '/cv/SKestelman_CV_2025dec.pdf' | relative_url }}">
+        CV
+      </a>
+    </h5>
+
+    <h5>
+      <a href="{{ '/teaching.html' | relative_url }}">
+        Teaching
+      </a>
+    </h5>
+
+    <h5>
+      <a href="{{ '/blog/' | relative_url }}">
+        Research musings (blog)
+      </a>
+    </h5>
+
+    <h5>
+      <a href="{{ '/dexter.html' | relative_url }}">
+        My dog, Dexter
+      </a>
+    </h5>
+  </nav>
+
 </div>
-``
