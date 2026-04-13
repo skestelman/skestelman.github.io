@@ -7,26 +7,11 @@ title: Research
 # Working papers 
 
 
-## <a href="https://www.dropbox.com/scl/fi/uilcea1axtxyn1ofcml3r/toc_draft_05092025_v3.pdf?rlkey=etnwip4dm95ubx8x13ei52i7f&dl=0">  Effects of Transit-Oriented Incentive Programs:
-Evidence from Los Angeles </a>
+## <a href="https://www.dropbox.com/scl/fi/uilcea1axtxyn1ofcml3r/toc_draft_05092025_v3.pdf?rlkey=etnwip4dm95ubx8x13ei52i7f&dl=0">  Effects of Transit-Oriented Incentive Programs: Evidence from Los Angeles </a>
 
 <details>
 <summary><strong>Show / Hide Abstract</strong></summary>
-This paper examines the effects of transit-oriented development incentives on multifamily
-housing development, using the implementation of Los Angeles’s Transit-
-Oriented Communities (TOC) incentive program as a natural experiment. Introduced
-in 2017, TOC streamlined the entitlement process for and granted density bonuses to
-qualifying projects near major transit stops. Using novel, project-level data covering
-applications, approvals, and permits from 2004 to 2023, I document a sharp increase
-in development proposals following the program’s rollout. However, this increase in
-applications did not translate into a rise in the rate of new housing supply. The program
-did shift the composition of new development: TOC projects were more likely to
-include income-restricted units and be located in lower-income, renter-occupied neighborhoods.
-Using a structural framework and estimated approval probabilities, I show
-that TOC enabled projects that would have faced lower approval chances or higher
-appeal risk under the previous discretionary regime. These findings highlight how procedural
-streamlining can shift the type and location of urban development, even if
-aggregate supply effects are limited.
+This paper examines the effects of transit-oriented development incentives on multifamily housing development, using the implementation of Los Angeles’s Transit- Oriented Communities (TOC) incentive program as a natural experiment. Introduced in 2017, TOC streamlined the entitlement process for and granted density bonuses to qualifying projects near major transit stops. Using novel, project-level data covering applications, approvals, and permits from 2004 to 2023, I document a sharp increase in development proposals following the program’s rollout. However, this increase in applications did not translate into a rise in the rate of new housing supply. The program did shift the composition of new development: TOC projects were more likely to include income-restricted units and be located in lower-income, renter-occupied neighborhoods. Using a structural framework and estimated approval probabilities, I show that TOC enabled projects that would have faced lower approval chances or higher appeal risk under the previous discretionary regime. These findings highlight how procedural streamlining can shift the type and location of urban development, even if aggregate supply effects are limited.
 </details>
 
 
