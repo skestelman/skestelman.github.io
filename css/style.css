@@ -5,16 +5,16 @@
 
 body {
   padding:50px;
-  font:14px;
+  font-size:14px;
 }
 
 a {
-  color:#990000;
+  color:#1a56a0;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#990000;
+  color:#1a56a0;
   font-weight: bold;
 }
 
@@ -44,7 +44,7 @@ header {
 
 
 h1 {
-  color: #990000;
+  color: #1a56a0;
 }
 
 
@@ -61,8 +61,8 @@ img {
 }
 
 
-.link-gray-dark:hover{color:#990000 !important}
-.link-hover-blue:hover{color:#990000 !important}
-.muted-link:hover{color:#990000 !important;text-decoration:none}
-.ne{color:#990000;font-weight:bold}.highlight
-.nl{color:#990000;font-weight:bold}.highlight
+.link-gray-dark:hover{color:#1a56a0 !important}
+.link-hover-blue:hover{color:#1a56a0 !important}
+.muted-link:hover{color:#1a56a0 !important;text-decoration:none}
+.ne{color:#1a56a0;font-weight:bold}.highlight
+.nl{color:#1a56a0;font-weight:bold}.highlight
