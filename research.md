@@ -81,6 +81,4 @@ In this project, we use restricted U.S. Census data to construct new measures of
   <p><a href="https://thelittledataset.com/2020/06/17/research-and-gender-during-a-pandemic/">Who's Talking about their COVID-19 Research? Gender and Research During a Pandemic</a> <br> (with
 	  <a href="https://www.albrightalex.com">Alex Albright</a>, <a href="https://kristen-mccormack.com">Kristen McCormack</a>, and <a href="https://www.linkedin.com/in/isabelharbaugh">Isabel Harbaugh Macdonald</a>), June 2020 </p>
 
-   <script src="scale_fix.js"></script>
-  </body>
-</html>
+
