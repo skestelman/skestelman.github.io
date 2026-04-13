@@ -34,6 +34,20 @@ h1 {
   color: #990000;
 }
 
+
+/* Prevent images from blowing up layouts */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.sidebar img {
+  max-width: 180px;
+  display: block;
+  margin: 1rem auto;
+}
+
+
 .link-gray-dark:hover{color:#990000 !important}
 .link-hover-blue:hover{color:#990000 !important}
 .muted-link:hover{color:#990000 !important;text-decoration:none}
