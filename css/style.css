@@ -9,12 +9,12 @@ body {
 }
 
 a {
-  color:#00918B;
+  color:#0FBDB4;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#00918B;
+  color:#0FBDB4;
   font-weight: bold;
 }
 
@@ -44,7 +44,7 @@ header {
 
 
 h1 {
-  color: #00918B;
+  color: #0FBDB4;
 }
 
 
@@ -61,9 +61,9 @@ img {
 }
 
 
-.link-gray-dark:hover{color:#00918B !important}
-.link-hover-blue:hover{color:#00918B !important}
-.muted-link:hover{color:#00918B !important;text-decoration:none}
+.link-gray-dark:hover{color:#696E6E !important}
+.link-hover-blue:hover{color:#004D4D !important}
+.muted-link:hover{color:#004D4D !important;text-decoration:none}
 .ne{color:#00918B;font-weight:bold}.highlight
 .nl{color:#00918B;font-weight:bold}.highlight
 
