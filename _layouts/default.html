@@ -1,32 +1,18 @@
-<!DOCTYPE html>
+
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>{{ page.title }} – Stephanie Kestelman</title>
-
-  <link rel="stylesheet" href="/assets/main.css">
-  <link rel="stylesheet" href="/assets/css/blog.css">
-
-  {% include mathjax.html %}
+  <title>{{ page.title }} – {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 </head>
-
 <body>
-  <div class="container">
 
-    <header>
-      <h1><a href="/">Stephanie Kestelman</a></h1>
-      <nav>
-        <a href="/research.html">Research</a> ·
-        <a href="/blog.html">Research Notes</a> ·
-        <a href="/cv/">CV</a>
-      </nav>
-    </header>
+{% include header.html %}
 
-    <main>
-      {{ content }}
-    </main>
+<main>
+  {{ content }}
+</main>
 
-  </div>
 </body>
-</html>
 
