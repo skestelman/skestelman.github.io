@@ -1,0 +1,24 @@
+---
+layout: default
+title: Research Notes
+---
+
+<h1>Research Notes</h1>
+
+<p>
+Short research sketches, extensions, half‑formed ideas, and occasional
+more polished essays. These are not peer‑reviewed.
+</p>
+
+<ul>
+{% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <small>
+      ({{ post.date | date: "%Y-%m-%d" }}
+      {% if post.note_type %} · {{ post.note_type }}{% endif %})
+    </small>
+  </li>
+{% endfor %}
+</ul>
+``
