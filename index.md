@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Home
 ---
 
 I am the Housing Research Director at <a href="https://www.arnoldventures.org/work/infrastructure">Arnold Ventures</a>. I am establishing a housing research portfolio that can inform the design and implementation of policies to make it easier, faster and cheaper to build housing of all different types.
