@@ -67,6 +67,7 @@ In this project, we use restricted U.S. Census data to construct new measures of
 <!-- <p>  Impact of Subnational Responses to a National Crisis: Evidence from Brazil  <br> (with <a href="https://www.jpchauvin.com">Juan Pablo Chauvin</a>  and <a href="https://scholar.harvard.edu/glaeser/home">Edward Glaeser</a>) </p> -->
 
 <hr>
+
 # Other writings
 
 <a href="https://thelittledataset.com/2020/06/17/research-and-gender-during-a-pandemic/">Who's Talking about their COVID-19 Research? Gender and Research During a Pandemic</a>
