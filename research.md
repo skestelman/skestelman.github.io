@@ -4,7 +4,7 @@ title: Research
 ---
 
 
-<h3><p> Working papers </h3></p>
+# Working papers 
 
 
 <p> <a href="https://www.dropbox.com/scl/fi/uilcea1axtxyn1ofcml3r/toc_draft_05092025_v3.pdf?rlkey=etnwip4dm95ubx8x13ei52i7f&dl=0">  Effects of Transit-Oriented Incentive Programs:
@@ -51,7 +51,7 @@ Human activity is the primary cause of wildfires in California, suggesting that 
   <hr>
 
 
-<h3><p> Work in Progress </h3></p>
+# Work in Progress
 <p> <a href="https://www.dropbox.com/scl/fi/4nmp2v7v4xmb3pp1ank1f/07162025_nber_criw_LL.pdf?rlkey=qd2hdss5qnbolylaailu7m75h&dl=0"> Towards a Measurement of Rental Property Ownership in the United States </a> <br> (with <a href="https://www.rebecca-diamond.com">Rebecca Diamond</a>, <a href="http://johnerichumphries.com/">John Eric Humphries</a>, <a href="https://www.katepennington.org">Kate Pennington</a>, <a href="https://sites.google.com/site/winnielillianvandijk/">Winnie van Dijk</a> and <a href="https://sites.google.com/site/johnlvoorheis/">John Voorheis</a>)
 <button class="abstract-button" id="show-4" onclick="toggleAbstract(4)">Abstract</button>
 <button class="abstract-button" id="hide-4" onclick="toggleAbstract(4)" style="display:none;">Hide Abstract</button>
@@ -64,7 +64,7 @@ In this project, we use restricted U.S. Census data to construct new measures of
 <!-- <p>  Impact of Subnational Responses to a National Crisis: Evidence from Brazil  <br> (with <a href="https://www.jpchauvin.com">Juan Pablo Chauvin</a>  and <a href="https://scholar.harvard.edu/glaeser/home">Edward Glaeser</a>) </p> -->
 
   <hr>
-<h3><p> Other writings </h3></p>
+# Other writings
 
   <p><a href="https://thelittledataset.com/2020/06/17/research-and-gender-during-a-pandemic/">Who's Talking about their COVID-19 Research? Gender and Research During a Pandemic</a> <br> (with
 	  <a href="https://www.albrightalex.com">Alex Albright</a>, <a href="https://kristen-mccormack.com">Kristen McCormack</a>, and <a href="https://www.linkedin.com/in/isabelharbaugh">Isabel Harbaugh Macdonald</a>), June 2020 </p>
