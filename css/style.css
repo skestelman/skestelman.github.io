@@ -125,6 +125,12 @@ h3 {
 
 h4 {
   color: #05423F;
+  margin-top: 2rem;
+  margin-bottom: 0.25rem;
+}
+
+details {
+  margin-bottom: 1.5rem;
 }
 
 /* Prevent images from blowing up layouts */
