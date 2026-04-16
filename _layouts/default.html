@@ -10,14 +10,12 @@
 <body>
 <script src="{{ '/scale_fix.js' | relative_url }}"></script>
 
+{% include header.html %}
+
 <div class="wrapper">
-
-  {% include sidebar.html %}
-
   <div class="content">
     {{ content }}
   </div>
-
 </div>
 
 </body>
