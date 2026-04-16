@@ -112,15 +112,15 @@ a:hover, a:focus {
 }
 
 h1 {
-  color: #004D4D;
-}
-
-h2 {
   color: #0C9790;
 }
 
-h3 {
+h2 {
   color: #096D68;
+}
+
+h3 {
+  color: #004D4D;
 }
 
 h4 {
