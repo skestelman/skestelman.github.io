@@ -3,11 +3,18 @@ layout: page
 ---
 
 <div class="home-intro">
-  <img
-    src="{{ '/image/stephaniekestelman_photo_circ.jpg' | relative_url }}"
-    alt="Stephanie Kestelman"
-    class="profile-pic"
-  />
+  <div class="profile-col">
+    <img
+      src="{{ '/image/stephaniekestelman_photo_circ.jpg' | relative_url }}"
+      alt="Stephanie Kestelman"
+      class="profile-pic"
+    />
+    <div class="profile-info">
+      <p>Housing Research Director<br>Arnold Ventures</p>
+      <p>Washington, DC</p>
+      <p>skestelman at arnoldventures.org</p>
+    </div>
+  </div>
   <div class="bio">
 
 I am the Housing Research Director at <a href="https://www.arnoldventures.org/work/infrastructure">Arnold Ventures</a>. I am establishing a housing research portfolio that can inform the design and implementation of policies to make it easier, faster and cheaper to build housing of all different types.

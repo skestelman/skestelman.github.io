@@ -82,10 +82,29 @@ a:hover, a:focus {
   gap: 2rem;
 }
 
+.profile-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-shrink: 0;
+  width: 180px;
+}
+
 .home-intro .profile-pic {
   width: 180px;
-  flex-shrink: 0;
   border-radius: 50%;
+}
+
+.profile-info {
+  text-align: center;
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
+  color: #444;
+  line-height: 1.4;
+}
+
+.profile-info p {
+  margin: 0.25rem 0;
 }
 
 .home-intro .bio {
@@ -93,19 +112,25 @@ a:hover, a:focus {
 }
 
 h1 {
-  color: #004D4D;
-}
-
-h2 {
   color: #0C9790;
 }
 
-h3 {
+h2 {
   color: #096D68;
+}
+
+h3 {
+  color: #004D4D;
 }
 
 h4 {
   color: #05423F;
+  margin-top: 2rem;
+  margin-bottom: 0.25rem;
+}
+
+details {
+  margin-bottom: 1.5rem;
 }
 
 /* Prevent images from blowing up layouts */
@@ -142,6 +167,11 @@ img {
 
   .home-intro {
     flex-direction: column;
+  }
+
+  .profile-col {
+    width: 140px;
+    align-self: center;
   }
 
   .home-intro .profile-pic {
