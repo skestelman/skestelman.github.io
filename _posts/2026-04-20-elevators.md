@@ -1,5 +1,5 @@
 ---
-title: "Elevators research"
+title: "Why economists should study the elevator industry"
 date: 2026-04-20
 ---
 
