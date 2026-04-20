@@ -4,6 +4,11 @@
   line-height: 1.6;
 }
 
+.post ul,
+.post ol {
+  padding-left: 2em;
+}
+
 .post-meta {
   color: #666;
   font-size: 0.9em;
