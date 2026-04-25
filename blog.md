@@ -3,10 +3,75 @@ layout: page
 title: Blog
 ---
 
-{% for post in site.posts %}
-<article class="post">
-  <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-  <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
-  {{ post.content }}
-</article>
-{% endfor %}
+<p>Posts are published on <a href="https://stephaniekestelman.substack.com" target="_blank" rel="noopener">Substack</a>.</p>
+
+<div id="substack-feed" role="status" aria-live="polite">
+  <p>Loading posts…</p>
+</div>
+
+<script>
+(function () {
+  var feedUrl = 'https://stephaniekestelman.substack.com/feed';
+  var apiUrl  = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(feedUrl);
+
+  function extractText(html) {
+    var doc = new DOMParser().parseFromString(html, 'text/html');
+    return doc.body.textContent || '';
+  }
+
+  fetch(apiUrl)
+    .then(function (res) { return res.json(); })
+    .then(function (data) {
+      var container = document.getElementById('substack-feed');
+      container.innerHTML = '';
+
+      if (!data.items || data.items.length === 0) {
+        container.textContent = 'No posts found.';
+        return;
+      }
+
+      data.items.forEach(function (item) {
+        var date = new Date(item.pubDate);
+        var dateStr = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+
+        var article = document.createElement('article');
+        article.className = 'post';
+
+        var title = document.createElement('h2');
+        var link  = document.createElement('a');
+        link.href        = item.link;
+        link.target      = '_blank';
+        link.rel         = 'noopener';
+        link.textContent = item.title;
+        title.appendChild(link);
+
+        var meta = document.createElement('p');
+        meta.className   = 'post-date';
+        meta.textContent = dateStr;
+
+        var desc = document.createElement('p');
+        desc.textContent = extractText(item.description);
+
+        article.appendChild(title);
+        article.appendChild(meta);
+        article.appendChild(desc);
+        container.appendChild(article);
+      });
+    })
+    .catch(function (err) {
+      console.error('Failed to load Substack feed:', err);
+      var container = document.getElementById('substack-feed');
+      var msg = document.createElement('p');
+      msg.textContent = 'Could not load posts. Visit ';
+      var fallback = document.createElement('a');
+      fallback.href        = 'https://stephaniekestelman.substack.com';
+      fallback.target      = '_blank';
+      fallback.rel         = 'noopener';
+      fallback.textContent = 'Substack';
+      msg.appendChild(fallback);
+      msg.appendChild(document.createTextNode(' directly.'));
+      container.innerHTML = '';
+      container.appendChild(msg);
+    });
+})();
+</script>
