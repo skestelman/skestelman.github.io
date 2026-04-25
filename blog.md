@@ -72,7 +72,3 @@ title: Blog
     });
 })();
 </script>
-
-<p>
-  <a class="substack-subscribe-btn" href="https://stephaniekestelman.substack.com" target="_blank" rel="noopener">Subscribe on Substack</a>
-</p>
