@@ -11,8 +11,7 @@ layout: page
       class="profile-pic"
     />
     <div class="profile-info">
-      <p>Housing Research Director<br>Arnold Ventures</p>
-      <p>Washington, DC</p>
+      <p>Housing Research Director @ Arnold Ventures</p>
       <p>Email: skestelman at arnoldventures.org</p>
     </div>
   </div>
