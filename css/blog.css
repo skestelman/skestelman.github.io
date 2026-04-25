@@ -32,7 +32,7 @@
   display: inline-block;
   margin-top: 1.5rem;
   padding: 0.55em 1.2em;
-  background: #FF6719;
+  background: #004D4D;
   color: #fff;
   border-radius: 4px;
   font-weight: bold;
@@ -41,6 +41,23 @@
 
 .substack-subscribe-btn:hover,
 .substack-subscribe-btn:focus {
-  background: #e05510;
+  background: #0C9790;
   color: #fff;
+}
+
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+}
+
+.post-content p {
+  margin: 0.75em 0;
+}
+
+.post-content h1,
+.post-content h2,
+.post-content h3 {
+  margin-top: 1.25em;
 }
