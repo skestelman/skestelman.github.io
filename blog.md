@@ -9,15 +9,11 @@ title: Blog
   <p>Loading posts…</p>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3.2.4/dist/purify.min.js"></script>
 <script>
 (function () {
   var feedUrl = 'https://stephaniekestelman.substack.com/feed';
   var apiUrl  = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(feedUrl);
-
-  function extractText(html) {
-    var doc = new DOMParser().parseFromString(html, 'text/html');
-    return doc.body.textContent || '';
-  }
 
   fetch(apiUrl)
     .then(function (res) { return res.json(); })
@@ -49,12 +45,13 @@ title: Blog
         meta.className   = 'post-date';
         meta.textContent = dateStr;
 
-        var desc = document.createElement('p');
-        desc.textContent = extractText(item.description);
+        var content = document.createElement('div');
+        content.className = 'post-content';
+        content.innerHTML = DOMPurify.sanitize(item.content || item.description);
 
         article.appendChild(title);
         article.appendChild(meta);
-        article.appendChild(desc);
+        article.appendChild(content);
         container.appendChild(article);
       });
     })
