@@ -27,3 +27,20 @@
   border-left: 3px solid #333;
   padding-left: 1em;
 }
+
+.substack-subscribe-btn {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: 0.55em 1.2em;
+  background: #FF6719;
+  color: #fff;
+  border-radius: 4px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.substack-subscribe-btn:hover,
+.substack-subscribe-btn:focus {
+  background: #e05510;
+  color: #fff;
+}

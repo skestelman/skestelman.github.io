@@ -30,7 +30,7 @@ title: Blog
         return;
       }
 
-      data.items.forEach(function (item) {
+      data.items.slice(0, 5).forEach(function (item) {
         var date = new Date(item.pubDate);
         var dateStr = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 
@@ -75,3 +75,7 @@ title: Blog
     });
 })();
 </script>
+
+<p>
+  <a class="substack-subscribe-btn" href="https://stephaniekestelman.substack.com" target="_blank" rel="noopener">Subscribe on Substack</a>
+</p>
