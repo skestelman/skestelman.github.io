@@ -49,7 +49,7 @@ title: Blog
         content.className = 'post-content';
         content.innerHTML = DOMPurify.sanitize(item.content || item.description);
         content.querySelectorAll('p').forEach(function (p) {
-          if (/subscribe for free to receive new posts/i.test(p.textContent)) {
+          if (/subscribe for free to receive new posts and support my work/i.test(p.textContent)) {
             p.remove();
           }
         });
