@@ -48,6 +48,11 @@ title: Blog
         var content = document.createElement('div');
         content.className = 'post-content';
         content.innerHTML = DOMPurify.sanitize(item.content || item.description);
+        content.querySelectorAll('p').forEach(function (p) {
+          if (/subscribe for free to receive new posts and support my work/i.test(p.textContent)) {
+            p.remove();
+          }
+        });
 
         article.appendChild(title);
         article.appendChild(meta);
