@@ -146,7 +146,19 @@ img {
 .highlight .ne{color:#096D68;font-weight:bold}
 .highlight .nl{color:#096D68;font-weight:bold}
 
+.cv-mobile {
+  display: none;
+}
+
 @media (max-width: 768px) {
+  .cv-embed {
+    display: none;
+  }
+
+  .cv-mobile {
+    display: block;
+  }
+
   .site-header {
     padding: 0 20px;
   }
