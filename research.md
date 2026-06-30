@@ -3,6 +3,16 @@ layout: page
 title: Research
 ---
 
+## Publications
+#### <a []href="https://www.dropbox.com/scl/fi/4nmp2v7v4xmb3pp1ank1f/07162025_nber_criw_LL.pdf?rlkey=qd2hdss5qnbolylaailu7m75h&dl=0"> Towards a Measurement of Rental Property Ownership in the United States </a>
+(with <a href="https://www.rebecca-diamond.com">Rebecca Diamond</a>, <a href="http://johnerichumphries.com/">John Eric Humphries</a>, <a href="https://www.katepennington.org">Kate Pennington</a>, <a href="https://sites.google.com/site/winnielillianvandijk/">Winnie van Dijk</a> and <a href="https://sites.google.com/site/johnlvoorheis/">John Voorheis</a>)
+<i> Forthcoming in the Proceedings of the CRIW Conference on Measurement of Housing and the Housing Sector </i>
+
+<details>
+<summary>Abstract</summary>
+Roughly one-third of US households rent their homes, yet measuring who owns rental property is difficult: ownership is frequently obscured by LLCs, partnerships, and other intermediary entities that separate legal from economic control. We develop a method that traces ownership through administrative records—combining deeds and property assessments with the Census Bureau's Business Register, IRS Schedule K-1 filings, and SEC filings on REITs—to identify ultimate owners and construct property portfolios across the full landlord size distribution. Applying the method to 11 large CBSAs, we find that individual landlords own a majority of rental units, though their share varies meaningfully across markets. We also show that the widely used mailing-address aggregation approach both under- and over-states portfolio size in systematic ways. The method is designed to scale to national coverage and to support measurement of landlord identity, portfolio composition, and ownership concentration in U.S. rental markets. We also discuss the method's current limitations and outline directions for refinement and validation.
+</details>
+
 
 ## Working papers 
 
